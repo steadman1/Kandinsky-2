@@ -23,8 +23,6 @@ setup(
         "omegaconf",
         "pytorch_lightning",
         "einops",
-        "sentencepiece",
-  
     ],
     author="",
 )
